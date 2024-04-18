@@ -107,6 +107,9 @@ export default function Home() {
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
+        <div>
+          <h2>This is the Basic Portfolio Website, to Learn Next.JS!</h2>
+        </div>
       </div>
     </main>
   );
